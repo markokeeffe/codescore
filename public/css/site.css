@@ -1,0 +1,19 @@
+.navbar-default {
+  background: rgba(0,0,0,0.8);
+}
+.navbar-brand {
+  background: url(../img/codescore-logo-sm.png) no-repeat 0 0;
+  display: block;
+  width: 239px;
+  height: 40px;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  text-indent: -10000px;
+}
+.modal {
+  top: 5%;
+  right: 5%;
+  bottom: 5%;
+  left: 5%;
+}
